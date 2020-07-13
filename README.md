@@ -3,9 +3,12 @@
 ## Hi 👋 
 I'm Carlos Miguel, I'm a Full Stack developer 👨‍💻 who is passionate about JavaScript technologies and its entire ecosystem. 
 
-<img alt="Illustratione" src= "https://github.com/solrachix/solrachix/blob/master/background.png?raw=true" />
-
+-  💻 React.js, React Native, Node.js, Javascript, TypeScript and more.
 -  ⚡ Technologies: React, Node, React Native, MySql, NoSql
+
+<p align="center">
+  <img alt="Illustratione" src="https://github.com/solrachix/solrachix/blob/master/background.png?raw=true" width="700px" />
+</p>
 
 "If you can dream it, you can achieve it."
 "Something is only impossible until it is done."
