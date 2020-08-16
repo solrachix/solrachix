@@ -64,25 +64,25 @@ Degree in Systems Analysis and Development and back-end developer;
       <img alt="typescript" src="https://img.shields.io/badge/typescript-1E84D0.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 </a>
 <a href="#">
-      <img alt="sql" src="https://img.shields.io/badge/sql-1E84D0.svg?style=for-the-badge&logo=sql&logoColor=white" />
+      <img alt="sql" src="https://img.shields.io/badge/sql-0076D0.svg?style=for-the-badge&logo=sql&logoColor=white" />
 </a>
 
 #### :hammer: Frameworks
 
 <a href="#">
-      <img alt="Electron" src="https://img.shields.io/badge/electron-1E84D0.svg?style=for-the-badge&logo=electron&logoColor=white" />
+      <img alt="Electron" src="https://img.shields.io/badge/electron-4078C3.svg?style=for-the-badge&logo=electron&logoColor=white" />
 </a>
 <a href="#">
-      <img alt="gatsby" src="https://img.shields.io/badge/gatsby-1E84D0.svg?style=for-the-badge&logo=gatsby&logoColor=white" />
+      <img alt="gatsby" src="https://img.shields.io/badge/gatsby-542C85.svg?style=for-the-badge&logo=gatsby&logoColor=white" />
 </a>
 <a href="#">
-      <img alt="Next" src="https://img.shields.io/badge/next-1E84D0.svg?style=for-the-badge&logo=next&logoColor=white" />
+      <img alt="Next" src="https://img.shields.io/badge/next-333.svg?style=for-the-badge&logo=next.js&logoColor=white" />
 </a>
 <a href="#">
-      <img alt="React" src="https://img.shields.io/badge/react-1E84D0.svg?style=for-the-badge&logo=react&logoColor=white" />
+      <img alt="React" src="https://img.shields.io/badge/react-36B2C8.svg?style=for-the-badge&logo=react&logoColor=white" />
 </a>
 <a href="#">
-      <img alt="React" src="https://img.shields.io/badge/react Native-1E84D0.svg?style=for-the-badge&logo=react&logoColor=white" />
+      <img alt="React Native" src="https://img.shields.io/badge/react Native-00D2F8.svg?style=for-the-badge&logo=react&logoColor=white" />
 </a>
 
 
@@ -113,12 +113,6 @@ Degree in Systems Analysis and Development and back-end developer;
 <a href="#">
       <img alt="Microservices" src="https://img.shields.io/badge/Microservices-gray.svg?style=for-the-badge" />
 </a>
-<img
-	src="https://github.com/solrachix/Proffy/blob/master/.github/adornment-5.png?raw=true"
-	width="200px"
-	height="160px"
-	align="right"
-/>
 <a href="#">
       <img alt="MVC" src="https://img.shields.io/badge/MVC-gray.svg?style=for-the-badge" />
 </a>
@@ -134,6 +128,16 @@ Degree in Systems Analysis and Development and back-end developer;
 </p>
 
 ---
+</br>
+</br>
+
+<img
+	src="https://github.com/solrachix/Proffy/blob/master/.github/adornment-5.png?raw=true"
+	width="200px"
+	height="160px"
+	align="right"
+/>
+
 ### Phrases that I say to myself
 
  - ***If you can dream it, you can achieve it.***
