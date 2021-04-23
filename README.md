@@ -26,7 +26,7 @@
 
 🔡 Você pode ler sobre mim em <b>português</b> [aqui](https://github.com/solrachix/solrachix/blob/master/README.pt-br.md).
 
-Follow me on [instagram](https://www.instagram.com/solrachix/) for tips and code layouts
+#### Follow me on [instagram](https://www.instagram.com/solrachix/) for tips and code layouts
 
 In the last year of high school integrated with the computer technician! I'm a full-stack programmer, passionate about the best back-end, front-end and mobile development technologies. Fascinated by learning and JavaScript.
 
