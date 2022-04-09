@@ -1,9 +1,9 @@
 ## Hi there, I'm Carlos👋
 
 <img
-	src="https://github.com/solrachix/solrachix/blob/master/ativos/dev_productivit.svg?raw=true"
-	width="400px"
-	height="390px"
+	src="https://github.com/solrachix/solrachix/blob/master/ativos/profile_card.svg?raw=true"
+	width="375px"
+	height="615px"
 	align="right"
 />
 
