@@ -1,7 +1,7 @@
 ## Olá eu sou o Carlos👋
 
 <img
-	src="https://github.com/solrachix/solrachix/blob/master/ativos/profile_card-pt.svg?raw=true"
+	src="https://github.com/solrachix/solrachix/blob/master/ativos/profile_card-pt.png?raw=true"
 	width="375px"
 	height="615px"
 	align="right"
