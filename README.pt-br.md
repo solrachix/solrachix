@@ -27,7 +27,12 @@
 🔡 You can read about me in <b>english</b> [here](https://github.com/solrachix/solrachix#README).
 
 
-No último ano do ensino médio integrado ao técnico de informática! Sou programador full-stack, apaixonado pelas melhores tecnologias de desenvolvimento back-end, front-end e mobile. Fascinado por aprendizado e por JavaScript.
+💼 **Sobre mim**  
+Sou **desenvolvedor sênior full-stack** (back-end e front-end) com **+7 anos de experiência**, já tendo passado por grandes empresas como **Banco Safra, Linx, Consigaz, Ultragaz, Onebrain, Sympla, Vylex** e **Medcof**.  
+Atuei também como **líder técnico** em times de desenvolvimento, liderando projetos que resultaram na publicação de **2 aplicativos** na **Apple Store** e **Google Play**, totalizando **+20 mil downloads**.  
+
+Apaixonado por criar soluções escaláveis, trabalhar com times de alta performance e entregar produtos com qualidade, performance e boa experiência de uso.
+
 
 ---
 
