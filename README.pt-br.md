@@ -25,7 +25,7 @@
 
 
 🔡 You can read about me in <b>english</b> [here](https://github.com/solrachix/solrachix#README).
-
+#### Siga-me no [Instagram](https://www.instagram.com/solrachix/) para obter dicas e layouts de código
 
 💼 **Sobre mim**  
 Sou **desenvolvedor sênior full-stack** (back-end e front-end) com **+7 anos de experiência**, já tendo passado por grandes empresas como **Banco Safra, Linx, Consigaz, Ultragaz, Onebrain, Sympla, Vylex** e **Medcof**.  
