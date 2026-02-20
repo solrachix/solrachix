@@ -29,8 +29,8 @@
 #### Follow me on [instagram](https://www.instagram.com/solrachix/) for tips and code layouts
 
 💼 **About Me**  
-I’m a **senior full-stack developer** (back-end and front-end) with **7+ years of experience**, having worked at major companies such as **Banco Safra, Linx, Consigaz, Ultragaz, Onebrain, Sympla, Vylex**, and **Medcof**.  
-I have also served as a **technical leader** in development teams, leading projects that resulted in the release of **2 mobile applications** on the **Apple App Store** and **Google Play**, reaching **20,000+ downloads** in total.  
+I’m a **senior full-stack developer** (back-end and front-end) with **8+ years of experience**, having worked at major companies such as **Banco Safra, Linx, Consigaz, Ultragaz, Onebrain, Sympla, Vylex**, and **Medcof**.  
+I have also served as a **technical leader** in development teams, leading projects that resulted in the release of **2 mobile applications** on the **Apple App Store** and **Google Play**, reaching **55,000+ downloads** in total.  
 
 Passionate about building scalable solutions, collaborating with high-performance teams, and delivering products with quality, performance, and great user experience.
 
